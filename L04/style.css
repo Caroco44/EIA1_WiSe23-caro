@@ -1,0 +1,42 @@
+html {
+    background: radial-gradient(#38094e, #000000);
+}
+
+div {
+    position: absolute;
+    top: 30%;
+    left: 37%; 
+}
+
+.image {
+    border-radius: 2%; 
+    height: 65%; 
+    width: 65%;
+}
+
+.font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: aliceblue; 
+    font-size: 200px;
+    position: absolute;
+    top: 5%;
+    left: 33%
+}
+
+.font2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 60px;
+    position: absolute;
+    top: 20%;
+    left: 33%;
+}
+
+.font3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(197, 163, 209);
+    font-size: 60px;
+    position: absolute;
+    top: 105%;
+    left: -10%;
+}
