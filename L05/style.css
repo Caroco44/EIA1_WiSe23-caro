@@ -1,11 +1,16 @@
 body {background-color: rgb(194, 0, 0);}
 
-.font {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.heading {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: aliceblue;
-    font-size: 30px;
+    font-size: 35px;
     margin-top: 200px;
     margin-left: 30px;
 }
+
+.heading2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 30px;}
 
 .font2 {font-family: Arial, Helvetica, sans-serif;
     color: aliceblue;
